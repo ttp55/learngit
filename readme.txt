@@ -5,3 +5,4 @@ Git 666.
 Git is git.
 branch of Git.
 Create a new branch!
+--no--ff
