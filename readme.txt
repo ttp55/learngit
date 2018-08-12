@@ -6,3 +6,5 @@ Git is git.
 branch of Git.
 Create a new branch!
 --no-ff
+--no--ff
+New bug need me.
